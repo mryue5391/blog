@@ -2,5 +2,7 @@
     "title":"MrYue博客",
     "subTitle":"这里是MrYue博客，分享各种有趣实用电脑小技巧，记得关注我的账号！",
     "avatarUrl":"https://imgs.aixifan.com/newUpload/76440419_7acd021718d34845b2d7a3f6c2f3bb80.png",
+    "iconList":{"AcFunButton":"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 16 15\"><path d=\"M7.06 0L0 11.64l3.54 2.23l0.72 -2.51l5.61 -0.42l1.45 2.78l3.48 -2.09z m-1.44 8.70l1.33 -2.94l1.50 2.94H5.62z\" fill=\"#656d76\"></path></svg>"}
+    "exlink":{"AcFunButton":"https://www.acfun.cn/u/76440419"},
     "GMEEK_VERSION":"last"
 }

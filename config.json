@@ -3,7 +3,7 @@
     "subTitle":"这里是MrYue博客，分享各种有趣实用电脑小技巧，记得关注我的账号！",
     "avatarUrl":"https://imgs.aixifan.com/newUpload/76440419_7acd021718d34845b2d7a3f6c2f3bb80.png",
     "iconList":{
-        "AcFunButton":"<svg t=\"1767359501787\" class=\"icon\" viewBox=\"0 0 1091 1024\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" p-id=\"5335\" width=\"16\" height=\"16\"><path d=\"M521.00742 0L0 859.065328l260.50371 164.934672 53.990823-184.99889 413.374794-31.179186 107.265707 204.80358L1091.808465 859.065328 521.00742 0zM414.699282 642.135515l98.64758-217.359377 111.095986 217.359377H414.699282z\" fill=\"#656d76\" p-id=\"5336\"></path></svg>"
+        "AcFunButton":"<svg t=\"1767359501787\" class=\"icon\" viewBox=\"0 0 1091 1024\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" p-id=\"5335\" width=\"16\" height=\"16\">\n  <path d=\"M521.00742 0L0 859.065328l260.50371 164.934672 53.990823-184.99889 413.374794-31.179186 107.265707 204.80358L1091.808465 859.065328 521.00742 0zM414.699282 642.135515l98.64758-217.359377 111.095986 217.359377H414.699282z\" fill=\"#656d76\" p-id=\"5336\"></path>\n  <style>svg {transform: scale(0.015); transform-origin: 0 0;}</style>\n</svg>"
     },
     "exlink":{
         "AcFunButton":"https://www.acfun.cn/u/76440419"

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>MrYue博客</title><link>https://mryue5391.github.io/blog</link><description>这里是MrYue博客，分享各种有趣实用电脑小技巧，记得关注我的账号！</description><copyright>MrYue博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imgs.aixifan.com/newUpload/76440419_7acd021718d34845b2d7a3f6c2f3bb80.png</url><title>avatar</title><link>https://mryue5391.github.io/blog</link></image><lastBuildDate>Wed, 15 Jul 2026 06:43:18 +0000</lastBuildDate><managingEditor>MrYue博客</managingEditor><ttl>60</ttl><webMaster>MrYue博客</webMaster><item><title>【整活】遭遇音量异常变化，我是如何解决的？</title><link>https://mryue5391.github.io/blog/post/%E3%80%90-zheng-huo-%E3%80%91-zao-yu-yin-liang-yi-chang-bian-hua-%EF%BC%8C-wo-shi-ru-he-jie-jue-de-%EF%BC%9F.html</link><description>&lt;img width='75%' alt='Image' src='https://github.com/user-attachments/assets/cf19f444-4f30-42ff-bf1e-7d626b27d2b3' /&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>MrYue博客</title><link>https://mryue5391.github.io/blog</link><description>这里是MrYue博客，分享各种有趣实用电脑小技巧，记得关注我的账号！</description><copyright>MrYue博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imgs.aixifan.com/newUpload/76440419_7acd021718d34845b2d7a3f6c2f3bb80.png</url><title>avatar</title><link>https://mryue5391.github.io/blog</link></image><lastBuildDate>Wed, 15 Jul 2026 17:23:52 +0000</lastBuildDate><managingEditor>MrYue博客</managingEditor><ttl>60</ttl><webMaster>MrYue博客</webMaster><item><title>【整活】遭遇音量异常变化，我是如何解决的？</title><link>https://mryue5391.github.io/blog/post/%E3%80%90-zheng-huo-%E3%80%91-zao-yu-yin-liang-yi-chang-bian-hua-%EF%BC%8C-wo-shi-ru-he-jie-jue-de-%EF%BC%9F.html</link><description>&lt;img width='75%' alt='Image' src='https://github.com/user-attachments/assets/cf19f444-4f30-42ff-bf1e-7d626b27d2b3' /&gt;
 
 硬核解决音量异常变化。</description><guid isPermaLink="true">https://mryue5391.github.io/blog/post/%E3%80%90-zheng-huo-%E3%80%91-zao-yu-yin-liang-yi-chang-bian-hua-%EF%BC%8C-wo-shi-ru-he-jie-jue-de-%EF%BC%9F.html</guid><pubDate>Wed, 15 Jul 2026 06:42:52 +0000</pubDate></item><item><title>【教程】教你安全下载软件，避开各种坑</title><link>https://mryue5391.github.io/blog/post/%E3%80%90-jiao-cheng-%E3%80%91-jiao-ni-an-quan-xia-zai-ruan-jian-%EF%BC%8C-bi-kai-ge-zhong-keng.html</link><description>&lt;img width='75%' alt='Image' src='https://github.com/user-attachments/assets/5000ea70-4d62-45ca-bb48-b07ebab0686d' /&gt;
 
@@ -52,7 +52,17 @@ Defender Exclusion Tool下载链接： [Defender_Exclusion_Tool_v1.4.zip](https:
 ---
 
 **A站视频**：[点击前往](https://www.acfun.cn/v/ac46804256)
-**B站视频**：[点击前往](https://www.bilibili.com/video/BV1ELcuemEx7)。</description><guid isPermaLink="true">https://mryue5391.github.io/blog/post/%E3%80%90-jiao-cheng-%E3%80%91-ru-he-xiu-gai-wen-jian-ri-qi.html</guid><pubDate>Wed, 15 Jul 2026 04:04:15 +0000</pubDate></item><item><title>【教程】如何替换exe程序图标</title><link>https://mryue5391.github.io/blog/post/%E3%80%90-jiao-cheng-%E3%80%91-ru-he-ti-huan-exe-cheng-xu-tu-biao.html</link><description>&lt;img width='75%' alt='Image' src='https://github.com/user-attachments/assets/352d1387-b8bc-4d3c-b84a-6019f7546d89' /&gt;
+**B站视频**：[点击前往](https://www.bilibili.com/video/BV1ELcuemEx7)。</description><guid isPermaLink="true">https://mryue5391.github.io/blog/post/%E3%80%90-jiao-cheng-%E3%80%91-ru-he-xiu-gai-wen-jian-ri-qi.html</guid><pubDate>Wed, 15 Jul 2026 04:04:15 +0000</pubDate></item><item><title>【教程】如何激活Windows系统（Win7以上）</title><link>https://mryue5391.github.io/blog/post/%E3%80%90-jiao-cheng-%E3%80%91-ru-he-ji-huo-Windows-xi-tong-%EF%BC%88Win7-yi-shang-%EF%BC%89.html</link><description>&lt;img width='75%' alt='Image' src='https://github.com/user-attachments/assets/c04415ca-2e2b-4ca9-a634-f0b97aeffd71' /&gt;
+
+用一个工具激活Windows系统！
+
+软件下载链接：[MAS_AIO.zip](https://github.com/user-attachments/files/30032558/MAS_AIO.zip)
+开源地址：https://github.com/massgravel/Microsoft-Activation-Scripts
+
+---
+
+**A站视频**：[点击前往](https://www.acfun.cn/v/ac46804247)
+**B站视频**：[点击前往](https://www.bilibili.com/video/BV1oEcne5EEc)。</description><guid isPermaLink="true">https://mryue5391.github.io/blog/post/%E3%80%90-jiao-cheng-%E3%80%91-ru-he-ji-huo-Windows-xi-tong-%EF%BC%88Win7-yi-shang-%EF%BC%89.html</guid><pubDate>Wed, 15 Jul 2026 04:00:26 +0000</pubDate></item><item><title>【教程】如何替换exe程序图标</title><link>https://mryue5391.github.io/blog/post/%E3%80%90-jiao-cheng-%E3%80%91-ru-he-ti-huan-exe-cheng-xu-tu-biao.html</link><description>&lt;img width='75%' alt='Image' src='https://github.com/user-attachments/assets/352d1387-b8bc-4d3c-b84a-6019f7546d89' /&gt;
 
 一个工具替换exe应用程序图标：
 
@@ -67,6 +77,8 @@ Resource Hacker软件链接：https://www.angusj.com/resourcehacker/
 
 一个视频教会你，如何通过滑动关机！
 
+---
+
 **A站视频**：[点击前往](https://www.acfun.cn/v/ac46804224)
 **B站视频**：[点击前往](https://www.bilibili.com/video/BV1XtrhYJEVs/)。</description><guid isPermaLink="true">https://mryue5391.github.io/blog/post/%E3%80%90-jiao-cheng-%E3%80%91-tong-guo-hua-dong-guan-ji.html</guid><pubDate>Fri, 02 Jan 2026 15:50:36 +0000</pubDate></item><item><title>【教程】获取exe程序图标</title><link>https://mryue5391.github.io/blog/post/%E3%80%90-jiao-cheng-%E3%80%91-huo-qu-exe-cheng-xu-tu-biao.html</link><description>&lt;img width='75%' alt='Image' src='https://github.com/user-attachments/assets/4fba926a-559e-42e1-aba3-c1f3b3cf6d4e' /&gt;
 
@@ -74,6 +86,8 @@ Resource Hacker软件链接：https://www.angusj.com/resourcehacker/
 
 一个视频教会你如何下载谷歌浏览器，当今百度上有很多照搬谷歌浏览器网页的盗版浏览器软件，请认准官方网站：  
 https://google.cn/chrome
+
+---
 
 **A站视频**：[点击前往](https://www.acfun.cn/v/ac46790749)
 **B站视频**：[点击前往](https://www.bilibili.com/video/BV1yVr5YRE3v)。</description><guid isPermaLink="true">https://mryue5391.github.io/blog/post/%E3%80%90-jiao-cheng-%E3%80%91-xia-zai-gu-ge-liu-lan-qi.html</guid><pubDate>Fri, 02 Jan 2026 12:06:02 +0000</pubDate></item></channel></rss>

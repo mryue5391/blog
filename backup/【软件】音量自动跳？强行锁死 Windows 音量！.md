@@ -8,5 +8,5 @@
 
 ---
 
-**A站视频**：[敬请期待]()
-**B站视频**：[敬请期待]()
+**A站视频**：[点击前往](https://www.acfun.cn/v/ac48727582)
+**B站视频**：[点击前往](https://www.bilibili.com/video/BV1PE3c6MEpD/)
